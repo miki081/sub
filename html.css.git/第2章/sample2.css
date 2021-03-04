@@ -1,0 +1,25 @@
+h1 {
+  color: rgb(96, 222, 244);
+  font-size: 40px;
+  font-family:arial;
+}
+h2 {
+  color: pink;
+  font-family:Courier;
+  font-size: 20px;
+}
+h3 {
+  color: blueviolet;
+  font-family:Courier;
+  font-size:20px;
+}
+h4 {
+  color:rgb(222, 215, 135);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+}
+h5 {
+  color:rgba(228, 220, 255, 0.733);
+  font-family:Courier;
+  font-size: 20px;
+}
